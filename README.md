@@ -1,3 +1,5 @@
+NB: This is a custom branch of xuset/peer-relay for use in the chant project. Currently the quick-and-dirty support for binary messages is added.
+
 # peer-relay
 
 [![Build Status](https://travis-ci.org/xuset/peer-relay.svg?branch=master)](https://travis-ci.org/xuset/peer-relay)
